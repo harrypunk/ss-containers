@@ -1,0 +1,13 @@
+{
+  "name": "test-ss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "create-server-config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node create-server-config.js > server-config.json"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC"
+}
